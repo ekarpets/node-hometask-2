@@ -1,0 +1,18 @@
+{
+  "name": "hometask-2",
+  "version": "1.0.1",
+  "description": "Taks 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ekarpets/node-hometask-2"
+  },
+  "author": "Emma Karpets",
+  "license": "ISC",
+  "dependencies": {
+    "the-most-repeated-letter": "^1.0.2"
+  }
+}
